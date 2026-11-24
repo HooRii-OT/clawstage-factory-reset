@@ -1,0 +1,15 @@
+{
+  "version": "0.85",
+  "source_url": "https://the.earth.li/~sgtatham/putty/0.85/putty-0.85.tar.gz",
+  "source_sha256": "13fd4db2936d03b73812a7bcc2a658e4dd29cc776a56c3670a7fc6f1a0ee8af8",
+  "files": {
+    "plink.exe": {
+      "url": "https://the.earth.li/~sgtatham/putty/0.85/w64/plink.exe",
+      "sha256": "969f36879d5716aa1a9811f43a6a6510e8f08372dbeb9695b810b9c776f39c75"
+    },
+    "pscp.exe": {
+      "url": "https://the.earth.li/~sgtatham/putty/0.85/w64/pscp.exe",
+      "sha256": "4275310c04b4dd00cc139f93b932267df7816fda8e362d4a845660129264f3a1"
+    }
+  }
+}

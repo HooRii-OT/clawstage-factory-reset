@@ -1,0 +1,5 @@
+architecture=aarch64
+built_utc=2026-11-23T12:05:37Z
+compiler=14.2.0
+openssl=OpenSSL 3.5.7 9 Jun 2026 (Library: OpenSSL 3.5.7 9 Jun 2026)
+runtime=shadowlink-native
